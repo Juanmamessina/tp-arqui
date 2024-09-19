@@ -1,0 +1,26 @@
+pwd
+mkdir repogit
+cd repogit
+mkdir -p {carpeta1, carpeta2}
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+su
+ls -la
+pwd
+cd ..
+ls
+ls -la
+su
+ls
+cd repogit
+ls
+cd tp-arqui
+cd
+ls
+cd repogit
+cd tp-arqui
+ls
+history -a
